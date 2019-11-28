@@ -14,7 +14,7 @@
  - [你不知道的Javascript_03_下卷](javascript/你不知道的Javascript_03_下卷.pdf)
  - [JavaScript权威指南(第6版)(中文版)](javascript/JavaScript权威指南(第6版)(中文版).pdf)
  - [JavaScript权威指南示例代码](javascript/JavaScript权威指南源代码)
- - [数据结构与算法JavaScript描述](javascript/《数据结构与算法JavaScript描述》.((美)Michael McMillan ).[PDF]@ckook.pdf)
+ - [数据结构与算法JavaScript描述](javascript/数据结构与算法JavaScript描述.pdf)
  - [JavaScript语言精粹](javascript/JavaScript语言精粹.pdf)
  - [JavaScript语言精粹](javascript/JavaScript语言精粹.epub)
  - [ES6入门-阮一峰](javascript/ES6阮一峰.pdf)
