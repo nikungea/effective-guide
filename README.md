@@ -5,7 +5,7 @@
 #### 目前收集了前端领域的大部分必读书，以及计算机理论基础相关最经典的一些大部头，经过验证基本都是高清完整的。
 #### 希望可以帮后来者节省一些时间。
 
-## javascript
+## Javascript
  - [JavaScript高级程序设计-文字版](javascript/JavaScript高级程序设计_文字版.pdf)
  - [JavaScript高级程序设计示例代码](javascript/JavaScript高级程序设计源代码)
  - [JavaScript高级程序设计-阅读计划](javascript/js高级阅读计划-.pdf)
@@ -22,3 +22,13 @@
  - [编写可维护的JavaScript](javascript/编写可维护的JavaScript.pdf)
  - [JavaScript-EventLoop](javascript/JavaScript-EventLoop.pptx)
  - [Javascript对象类型](javascript/Javascript对象类型.png)
+
+## Node.js
+ - [Node.js实战(第2季)](node/Node.js实战(第2季).pdf)
+ - [Node.js开发指南](node/Node.js开发指南.pdf)
+ - [Node.js高级编程](node/Node.js高级编程.pdf)
+ - [深入浅出Node.js](node/深入浅出Node.js.pdf)
+
+ ## 
+
+
