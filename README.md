@@ -29,6 +29,9 @@
  - [Node.js高级编程](node/Node.js高级编程.pdf)
  - [深入浅出Node.js](node/深入浅出Node.js.pdf)
 
- ## 
+ ## 网络&服务器
+ - [HTTP权威指南[文字版]](网络&服务器/HTTP权威指南[文字版].pdf)
+ - [图解HTTP](网络&服务器/图解HTTP.pdf)
+ - [Mac下配置php+apache+mySQL](网络&服务器/Mac下配置php+apache+mySQL.png)
 
 
