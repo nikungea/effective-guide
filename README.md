@@ -15,8 +15,8 @@
  - [JavaScript权威指南(第6版)(中文版)](javascript/JavaScript权威指南(第6版)(中文版).pdf)
  - [JavaScript权威指南示例代码](javascript/JavaScript权威指南源代码)
  - [数据结构与算法JavaScript描述](javascript/数据结构与算法JavaScript描述.pdf)
- - [JavaScript语言精粹pdf](javascript/JavaScript语言精粹.pdf)
- - [JavaScript语言精粹epub](javascript/JavaScript语言精粹.epub)
+ - [JavaScript语言精粹.pdf](javascript/JavaScript语言精粹.pdf)
+ - [JavaScript语言精粹.epub](javascript/JavaScript语言精粹.epub)
  - [ES6入门-阮一峰](javascript/ES6阮一峰.pdf)
  - [javascript函数式编程](javascript/javascript函数式编程.pdf)
  - [编写可维护的JavaScript](javascript/编写可维护的JavaScript.pdf)
@@ -32,7 +32,7 @@
 ## 网络&服务器
  - [HTTP权威指南[文字版]](网络&服务器/HTTP权威指南[文字版].pdf)
  - [图解HTTP](网络&服务器/图解HTTP.pdf)
- - [Mac下配置php+apache+mySQL](网络&服务器/Mac下配置php+apache+mySQL.png)
+ - [Mac下配置php+apache+mySQL.png](网络&服务器/Mac下配置php+apache+mySQL.png)
 
 ## 计算机理论基础
  - [计算机程序的构造和解释](计算机理论基础/计算机程序的构造和解释.pdf)
@@ -46,7 +46,7 @@
  - [普林斯顿微积分读本](计算机理论基础/普林斯顿微积分读本.pdf)
  - [托马斯微积分第十版习题答案](计算机理论基础/托马斯微积分第十版习题答案.pdf)
  - [托马斯微积分(第10版)](计算机理论基础/托马斯微积分(第10版).pdf)
- - [堆栈](计算机理论基础/堆栈.png)
+ - [堆栈.png](计算机理论基础/堆栈.png)
 
  
 
