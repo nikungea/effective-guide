@@ -15,13 +15,13 @@
  - [JavaScript权威指南(第6版)(中文版)](javascript/JavaScript权威指南(第6版)(中文版).pdf)
  - [JavaScript权威指南示例代码](javascript/JavaScript权威指南源代码)
  - [数据结构与算法JavaScript描述](javascript/数据结构与算法JavaScript描述.pdf)
- - [JavaScript语言精粹](javascript/JavaScript语言精粹.pdf)
- - [JavaScript语言精粹](javascript/JavaScript语言精粹.epub)
+ - [JavaScript语言精粹pdf](javascript/JavaScript语言精粹.pdf)
+ - [JavaScript语言精粹epub](javascript/JavaScript语言精粹.epub)
  - [ES6入门-阮一峰](javascript/ES6阮一峰.pdf)
  - [javascript函数式编程](javascript/javascript函数式编程.pdf)
  - [编写可维护的JavaScript](javascript/编写可维护的JavaScript.pdf)
- - [JavaScript-EventLoop](javascript/JavaScript-EventLoop.pptx)
- - [Javascript对象类型](javascript/Javascript对象类型.png)
+ - [JavaScript-EventLoop.ppt](javascript/JavaScript-EventLoop.pptx)
+ - [Javascript对象类型.png](javascript/Javascript对象类型.png)
 
 ## Node.js
  - [Node.js实战(第2季)](node/Node.js实战(第2季).pdf)
