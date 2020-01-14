@@ -15,6 +15,7 @@
  - [JavaScript权威指南(第6版)(中文版)](javascript/JavaScript权威指南(第6版)(中文版).pdf)
  - [JavaScript权威指南示例代码](javascript/JavaScript权威指南源代码)
  - [数据结构与算法JavaScript描述](javascript/数据结构与算法JavaScript描述.pdf)
+ - [学习JavaScript数据结构与算法（第3版）](javascript/学习JavaScript数据结构与算法（第3版）.pdf)
  - [JavaScript语言精粹.pdf](javascript/JavaScript语言精粹.pdf)
  - [JavaScript语言精粹.epub](javascript/JavaScript语言精粹.epub)
  - [ES6入门-阮一峰](javascript/ES6阮一峰.pdf)
@@ -35,6 +36,7 @@
  - [Mac下配置php+apache+mySQL.png](网络&服务器/Mac下配置php+apache+mySQL.png)
 
 ## 计算机理论基础
+ - [深入理解计算机系统英文原版](计算机理论基础/深入理解计算机系统英文版.pdf)
  - [计算机程序的构造和解释](计算机理论基础/计算机程序的构造和解释.pdf)
  - [计算机程序设计艺术_01_第一卷](计算机理论基础/计算机程序设计艺术_01_第一卷.pdf)
  - [计算机程序设计艺术_02_第二卷](计算机理论基础/计算机程序设计艺术_02_第二卷.pdf)
